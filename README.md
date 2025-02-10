@@ -1,4 +1,4 @@
-![image alt](https://github.com/Reon482/Reon482/blob/14b790db4a3342fcd955daaeef47931f4d73c97e/linkedin%20profile.jpeg)
+![image alt](https://github.com/Reon482/Reon482/blob/476f81bbd275b481338e2b843301299f7dc6d656/My%20Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Rokonuj jaman Reon</h1>
 <h3 align="center">Aspiring Data Analyst | Statistician | BI Analyst </h3>
