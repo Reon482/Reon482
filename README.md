@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm an aspiring data analyst, statistician, and BI
 
 - 📄 **Know about my experiences** : [Resume](https://drive.google.com/file/d/1Ujx11pfdBicmpWHsOrMqZZeoRlmoeLhq/view?usp=sharing)
 
+- 📄 **Portfolio:** [rokonujjamanreon profile](https://sites.google.com/view/rokonujjamanreon/about)
 
 ## 🌱 Learning and Growth
 
@@ -34,7 +35,6 @@ I'm currently learning about:
 - **Email:** [rokonujjamanreon@gmail.com](mailto:rokonujjamanreon@gmail.com)
 - **LinkedIn:** [Rokonujjaman Reon](https://www.linkedin.com/in/rokonuj-jaman-reon-169349228/)
 - **Twitter:** [@rionraaz](https://twitter.com/rionraaz)
-- **Portfolio:** [rokonujjamanreon profile](https://sites.google.com/view/rokonujjamanreon/about)
 - **Facebook:** [Rokonujjaman Reon](https://www.facebook.com/rionreigns.rionreigns)
 - **Instagram:** [@rion_reigns](https://www.instagram.com/rion_reigns/?hl=en)
 - **Discord:** [Rokonujjaman Reon](https://www.linkedin.com/in/rokonuj-jaman-reon-169349228/)
