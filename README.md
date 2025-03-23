@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm an aspiring data analyst, statistician, and BI
 
 - 🔭 I’m currently working on **Data Optimiser**
 
-- 📄 **Know about my experiences** : [Resume](https://drive.google.com/file/d/1Ujx11pfdBicmpWHsOrMqZZeoRlmoeLhq/view?usp=sharing)
+- 📄 **Know about my experiences** : [Resume](https://drive.google.com/file/d/1Fu8wm54jv4TVeLbO7CszTI3eRPPb7uks/view?usp=sharing)
 
 - 📄 **Portfolio:** [rokonujjamanreon profile](https://sites.google.com/view/rokonujjamanreon/about)
 
