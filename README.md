@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm an aspiring data analyst, statistician, and BI
 
 
 
-- 🔭 I’m currently working on **Data Optimiser**
+- 🔭 I’m currently working on **Executive - RDC(Research Development Centre) Epic Group**
 
-- 📄 **Know about my experiences** : [Resume](https://drive.google.com/file/d/1Fu8wm54jv4TVeLbO7CszTI3eRPPb7uks/view?usp=sharing)
+- 📄 **Know about my experiences** : [CV](https://drive.google.com/file/d/12wWhXrqxSvR8-eSeDvILxRkDfA7Cm13q/view?usp=sharing)
 
-- 📄 **Portfolio:** [rokonujjamanreon profile](https://sites.google.com/view/rokonujjamanreon/about)
+- 📄 **Portfolio:** [Rokonujjamanreon profile](https://sites.google.com/view/rokonujjamanreon/about)
 
 ## 🌱 Learning and Growth
 
@@ -51,8 +51,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rokonuj-j
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, SQL, R
-- **Tools:** Excel, Power BI, Tableau, Jupyter, Google Analytics
-- **Databases:** MySQL, PostgreSQL, SQLite
+- **Tools:** Excel, Power BI, Jupyter, Google Analytics
+- **Databases:** MySQL, PostgreSQL, BigQuery
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
