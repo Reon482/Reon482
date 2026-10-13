@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm an aspiring data analyst, statistician, and BI
 
 - 📄 **Know about my experiences** : [CV](https://drive.google.com/file/d/1mTutqYSoh6UJX7jelrYz7OlTJegDu92U/view?usp=sharing)
 
-- 📄 **Portfolio:** [Rokonujjamanreon profile](https://reon482.github.io/Portfolio/)
+- 📄 **Portfolio:** [Rokonujjamanreon profile](https://reon482.github.io/Reon-Portfolio/)
 
 ## 🌱 Learning and Growth
 
