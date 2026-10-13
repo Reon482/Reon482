@@ -1,4 +1,4 @@
-![image alt](https://github.com/Reon482/Reon482/blob/092051776d138e610fc92a8ed9c97e0f075dcb69/My%20profile%20Banner.jpg)
+![image alt](https://github.com/Reon482/Reon482/blob/main/Data%20Analyst%20Tech%20Brand%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Rokonuj jaman Reon</h1>
 <h3 align="center">Data Analyst | Statistician | BI Analyst </h3>
